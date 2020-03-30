@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <comm-config>
+    <ip>
+      <ip1>127.0.0.1</ip1>
+    </ip>
+    <port>
+    	<port1>4000</port1>
+    </port>
+    <key>
+    	<key1>E:/dyKeystore</key1>
+    </key>
+    <lib-name>
+      <lib-file1>xbfLibR.dll</lib-file1>
+    </lib-name>
+    <xbf-path>
+      <xbf-file1>E://dySSL.xbf</xbf-file1>
+    </xbf-path>
+    <data-path>
+    	<csv-file1>E://myTest.txt</csv-file1>
+    	<send-file1>E://myTest2.txt</send-file1>
+    </data-path>
+  </comm-config>
+  
